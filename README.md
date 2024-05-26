@@ -1,4 +1,4 @@
--# Olá! Eu sou a Kizzy 👋
+## Olá! Eu sou a Kizzy 👋
 
 ## Sobre mim
 
