@@ -10,6 +10,13 @@ Sou cristã e tenho muitos hobbies: ler, escrever, desenhar, jogar e cantar. Ant
 
 No momento, estou mergulhando no aprendizado de várias linguagens de programação e ferramentas. Quero criar coisas legais e inovadoras!
 
+## Tecnologias que estou aprendendo
+
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+          
+
 ## Conecte-se comigo
 
 - [LinkedIn](https://www.linkedin.com/in/kizzyalannigiacomozze/)
