@@ -1,6 +1,11 @@
 # Olá, me chamo Kizzy Alanni! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+## Meu Octocat
+
+![Meu Octocat](https://github.com/KizzyGiacomozze/README.md/blob/main/octocat-17202119869738.png)
+
+
 <p>🔭 Atualmente estou trabalhando em fazer transição de carreira pra área de Front-End</p>
 <p>🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, React e Angular</p>
 <p>💬 Pergunte-me sobre UX ou UI, trabalho na área fazem mais de 3 anos e manjo de muita coisa.</p>
