@@ -1,29 +1,33 @@
-## Olá! Eu sou a Kizzy 👋
+# Olá, me chamo Kizzy Alanni! 
+## Bem vindo ao meu perfil GitHub 👋
 
-## Sobre mim
+<p>🔭 Atualmente estou trabalhando em fazer transição de carreira pra área de Front-End</p>
+<p>🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, React e Angular</p>
+<p>💬 Pergunte-me sobre UX ou UI, trabalho na área fazem mais de 3 anos e manjo de muita coisa.</p>
+<p>⚡ Curiosidade: Meu nome tem origem africana e significa "Aquela que nunca vai embora"</p>
 
-Sou nova no mundo da programação, mas super empolgada para aprender. Adoro tudo da cultura geek e otaku – animes, mangás, filmes de heróis, livros de fantasia, RPGs, jogos, você nomeia!
+## Ferramentas e tecnologias
 
-Sou cristã e tenho muitos hobbies: ler, escrever, desenhar, jogar e cantar. Antes de me aventurar na programação, trabalhei por mais de 3 anos com UX e UI. Agora, estou mudando de carreira para me tornar desenvolvedora. Adoro conversar e aprender coisas novas, então sinta-se à vontade para me chamar para um papo!
+<p align="center">
+  <img class="tecnologias" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img class="tecnologias" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img class="tecnologias" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img class="tecnologias" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
+  <img class="tecnologias" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>
+</p>
 
-## O que estou aprendendo
+## Contatos:
 
-No momento, estou mergulhando no aprendizado de várias linguagens de programação e ferramentas. Quero criar coisas legais e inovadoras!
+<div>
+<a href = "mailto:contato@kizzyalanni1@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kizzyalannigiacomozze" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-## Tecnologias que estou aprendendo
 
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+          
+
           
           
-
-## Conecte-se comigo
-
-- [LinkedIn](https://www.linkedin.com/in/kizzyalannigiacomozze/)
-- [Email](kizzyalannigiacomozze@gmail.com)
-
-Dê uma olhada nos meus repositórios, mande sugestões, melhorias ou só um "oi". Vamos aprender e crescer juntos na programação!
-
----
-
-### Bora codar juntos! 🚀
+          
+     
